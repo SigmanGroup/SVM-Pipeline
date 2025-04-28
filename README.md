@@ -1,2 +1,11 @@
 Scripts and Benchmarking data for Manuscript: Leveraging Data Science to Elucidate Ligand Features for Pd-Catalyzed Enantioretentive N-Arylations of Cyclic α-Substituted Amines in Aqueous Media
-Authors: Andrew R. Ickes1,#, Jordan P. Liles2,#, Niginia Borlinghaus3, Jeremy Henle1, Rafal Swiatowiec1, Niharika Prakash Kaushik2, Wilfried M. Braje3, Kaid C. Harper1, Shashank Shekhar1,*, Matthew S. Sigman2
+Authors: Andrew R. Ickes#
+Jordan P. Liles# 
+Niginia Borlinghaus
+Jeremy Henle
+Rafal Swiatowiec
+Niharika Prakash Kaushik
+Wilfried M. Braje
+Kaid C. Harper
+Shashank Shekhar
+Matthew S. Sigman
